@@ -1,0 +1,1 @@
+#palindrom np. kajak, kobyła ma mały bok
