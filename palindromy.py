@@ -1,5 +1,6 @@
 #palindrome for example: kajak, kobyła ma mały bok
 
+#Enter your word/sentence below, please:
 word = "Kobyła ma mały bok"
 def palindrom(word):
     word = word.lower()          #Capital letters doen't matter any more.
